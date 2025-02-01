@@ -1,0 +1,16 @@
+{
+    "rewrites": [
+      {
+        "source": "/9zs",
+        "destination": "/9zs.html"
+      },
+      {
+        "source": "/zooky",
+        "destination": "/zooky.html"
+      },
+      {
+        "source": "/zaid",
+        "destination": "/zaid.html"
+      }
+    ]
+  }
