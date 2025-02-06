@@ -11,6 +11,10 @@
       {
         "source": "/zaid",
         "destination": "/zaid.html"
+      },
+      {
+        "source": "/ggq",
+        "destination": "ggq.html"
       }
     ]
   }
